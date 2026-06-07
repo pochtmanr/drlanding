@@ -1,26 +1,77 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
+@theme {
+  /* Brand palette — from the Framer design reference */
+  --color-primary: #0085e6;
+  --color-primary-dark: #006dbf;
+  --color-primary-deep: #084f80;
+  --color-primary-soft: #e6f5ff;
+  --color-primary-faint: #f4fafe;
+  --color-ink: #0a0a0a;
+  --color-muted: #707070;
+  --color-muted-2: #666666;
+  --color-line: #e5e7eb;
+  --color-line-strong: #ababab;
+  --color-success: #16a34a;
+  --color-danger: #dc2626;
+  --color-warning: #d97706;
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
+  /* Card radius — 40px dominant radius from the reference */
+  --radius-4xl: 2.5rem;
+  --radius-5xl: 3rem;
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+  /* Wide page container: max-w-9xl ≈ 1700px */
+  --container-8xl: 96rem;
+  --container-9xl: 106.25rem;
+
+  --font-sans: var(--font-app), ui-sans-serif, system-ui, -apple-system,
+    "Segoe UI", sans-serif;
+
+  --shadow-card: 0 1px 2px rgb(10 10 10 / 0.04), 0 8px 24px rgb(8 79 128 / 0.06);
+  --shadow-card-hover: 0 2px 4px rgb(10 10 10 / 0.05), 0 16px 40px rgb(8 79 128 / 0.12);
+
+  --animate-fade-in: fade-in 0.6s ease-out both;
+
+  @keyframes fade-in {
+    from {
+      opacity: 0;
+      transform: translateY(16px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
   }
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
+/* Per-locale typeface: Manrope for Latin/Cyrillic locales, Rubik for Hebrew
+   (Manrope ships no Hebrew glyphs). Rubik stays as fallback either way. */
+html {
+  --font-app: var(--font-manrope), var(--font-rubik);
+}
+html[lang="he"] {
+  --font-app: var(--font-rubik);
+}
+
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background-color: white;
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  background-color: var(--color-primary);
+  color: white;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
 }

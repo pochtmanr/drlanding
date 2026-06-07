@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "Knee — Diagnosis and Treatment | Dr. Vyacheslav Dubenko",
+    "description": "Meniscus tears, ligament injuries and cartilage wear — knee diagnosis and treatment by Dr. Vyacheslav Dubenko, shoulder & knee surgeon with 37 years of experience. Maccabi clinics."
+  },
+  "pages": {
+    "injuries": {
+      "metaTitle": "Knee Injuries — Meniscus, Ligaments & Cartilage | Dr. Vyacheslav Dubenko",
+      "metaDescription": "Meniscus tears, cruciate ligament injuries and cartilage damage — how to recognize each knee injury, what the right treatment is and when to see a knee specialist."
+    },
+    "injectionsVsSurgery": {
+      "metaTitle": "Knee Injections as an Alternative to Surgery | Dr. Vyacheslav Dubenko",
+      "metaDescription": "When a knee injection can replace surgery and when surgery is the right solution — a balanced comparison of the options, from a specialist with 37 years of experience."
+    },
+    "surgery": {
+      "metaTitle": "Knee Surgery — Meniscus & Ligament Reconstruction | Dr. Vyacheslav Dubenko",
+      "metaDescription": "Arthroscopic knee surgery: treating meniscus tears and cruciate ligament reconstruction. When surgery is needed, how to prepare and what to expect in recovery."
+    },
+    "rehabilitation": {
+      "metaTitle": "Rehabilitation After Knee Surgery | Dr. Vyacheslav Dubenko",
+      "metaDescription": "Rehabilitation after knee surgery: the recovery phases, typical timelines and the safe path back to full activity and sport."
+    },
+    "physiotherapy": {
+      "metaTitle": "Knee Physiotherapy — Conservative Care | Dr. Vyacheslav Dubenko",
+      "metaDescription": "Knee physiotherapy: muscle strengthening, improved stability and conservative treatment of knee pain — and when the right exercise spares surgery."
+    }
+  },
+  "cards": {
+    "injuries": {
+      "title": "Knee Injuries",
+      "description": "Meniscus tears, cruciate ligament injuries and cartilage damage — how to recognize them, what to do and when to see a specialist."
+    },
+    "injectionsVsSurgery": {
+      "title": "Injections as an Alternative to Surgery",
+      "description": "When an injection can postpone or spare knee surgery — and when surgery is actually the right choice."
+    },
+    "surgery": {
+      "title": "Knee Surgery",
+      "description": "Arthroscopic treatment of meniscus tears and cruciate ligament reconstruction — from preparation to recovery."
+    },
+    "rehabilitation": {
+      "title": "Rehabilitation After Knee Surgery",
+      "description": "The rehabilitation phases after knee surgery, typical timelines and the gradual return to activity and sport."
+    },
+    "physiotherapy": {
+      "title": "Knee Physiotherapy",
+      "description": "Strengthening, stabilization and conservative care — how the right exercise eases knee pain and in most cases makes surgery unnecessary."
+    }
+  },
+  "related": "Read also"
+}

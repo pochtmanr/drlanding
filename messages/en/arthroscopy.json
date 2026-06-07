@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "title": "Arthroscopic Surgery — Minimally Invasive | Dr. Vyacheslav Dubenko",
+    "description": "Minimally invasive arthroscopic surgery of the shoulder, elbow, knee and ankle: small incisions, less tissue damage and a faster recovery. Dr. Vyacheslav Dubenko, 37 years of experience, seeing patients through Maccabi."
+  },
+  "pages": {
+    "shoulder": {
+      "metaTitle": "Shoulder Arthroscopy | Dr. Vyacheslav Dubenko",
+      "metaDescription": "Shoulder arthroscopy: rotator cuff repair, stabilization after dislocations and treatment of impingement syndrome — how the surgery is performed, who it suits and what recovery looks like."
+    },
+    "elbow": {
+      "metaTitle": "Elbow Arthroscopy | Dr. Vyacheslav Dubenko",
+      "metaDescription": "Elbow arthroscopy: removal of loose bodies, release of stiffness and treatment of tennis elbow that has not responded to conservative care — when surgery is considered and how it proceeds."
+    },
+    "knee": {
+      "metaTitle": "Knee Arthroscopy | Dr. Vyacheslav Dubenko",
+      "metaDescription": "Knee arthroscopy: treatment of meniscus tears, ligament reconstruction and cartilage procedures — the advantages of a minimally invasive approach and the stages of recovery."
+    },
+    "ankleFoot": {
+      "metaTitle": "Ankle & Foot Arthroscopy | Dr. Vyacheslav Dubenko",
+      "metaDescription": "Ankle and foot arthroscopy: impingement syndrome, cartilage lesions and chronic instability — precise diagnosis, minimally invasive surgery and a structured recovery plan."
+    },
+    "preparation": {
+      "metaTitle": "Preparing for Arthroscopic Surgery — Patient Guide | Dr. Vyacheslav Dubenko",
+      "metaDescription": "How to prepare for arthroscopic surgery: pre-operative tests, medications to report, fasting instructions, what to bring on the day of surgery and how to get your home ready — a practical, reassuring guide."
+    },
+    "rehabilitation": {
+      "metaTitle": "Rehabilitation After Arthroscopic Surgery | Dr. Vyacheslav Dubenko",
+      "metaDescription": "The first day after arthroscopic surgery and rehabilitation guidelines: dressing care, icing, pain management, recovery phases in week ranges, physiotherapy and a gradual return to activity."
+    },
+    "insuranceForms": {
+      "metaTitle": "Insurance Claim Forms for Surgery | Dr. Vyacheslav Dubenko",
+      "metaDescription": "Which documents the clinic provides for a surgical insurance claim, how the process with your insurer typically works and what Maccabi members should know — a clear guide for patients."
+    }
+  },
+  "cards": {
+    "shoulder": {
+      "title": "Arthroscopic Shoulder Surgery",
+      "description": "Rotator cuff repair, shoulder stabilization after dislocations and treatment of impingement — all through small incisions."
+    },
+    "elbow": {
+      "title": "Elbow Arthroscopy",
+      "description": "Loose bodies in the joint, stiffness and tennis elbow that has not responded to conservative care — a minimally invasive solution."
+    },
+    "knee": {
+      "title": "Arthroscopic Knee Surgery",
+      "description": "Treatment of meniscus tears, ligament reconstruction and cartilage procedures using a minimally invasive approach."
+    },
+    "ankleFoot": {
+      "title": "Ankle & Foot Arthroscopy",
+      "description": "Impingement syndrome, cartilage lesions and chronic ankle instability — focused diagnosis and treatment."
+    },
+    "preparation": {
+      "title": "Preparing for Surgery — Patient Information",
+      "description": "Tests, medications, fasting and what to bring on the day of surgery — an organized checklist to help you arrive prepared and calm."
+    },
+    "rehabilitation": {
+      "title": "Postoperative Rehabilitation",
+      "description": "The first day after surgery and rehabilitation guidelines: recovery phases, physiotherapy and a gradual return to routine."
+    },
+    "insuranceForms": {
+      "title": "Insurance Claim Forms",
+      "description": "Which documents you will receive from the clinic and how the process with your insurer works — including information for Maccabi members."
+    }
+  },
+  "related": "Read also"
+}

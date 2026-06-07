@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "hub": {
+      "title": "Patient Information | Dr. Vyacheslav Dubenko",
+      "description": "Everything worth knowing before and after your visit: patient testimonials, answers to common questions and practical guides — from Dr. Vyacheslav Dubenko, orthopedic specialist with 37 years of experience."
+    },
+    "testimonials": {
+      "title": "Patient Testimonials | Dr. Vyacheslav Dubenko",
+      "description": "What patients say about their care with Dr. Vyacheslav Dubenko — from shoulder and knee surgery to injections, rehabilitation and second opinions."
+    },
+    "faq": {
+      "title": "Patient FAQ | Dr. Vyacheslav Dubenko",
+      "description": "Referrals and Maccabi, what to bring to the first visit, injections vs. surgery, arthroscopy, recovery timelines and return to sport — answers to patients' most common questions."
+    },
+    "articles": {
+      "title": "Articles & Guides for Patients | Dr. Vyacheslav Dubenko",
+      "description": "Practical guides by Dr. Vyacheslav Dubenko: preventing sports injuries, rehabilitation that works, and a safe return to sport after injury or surgery."
+    },
+    "sportsInjuryPrevention": {
+      "title": "Preventing Sports Injuries — A Practical Guide | Dr. Vyacheslav Dubenko",
+      "description": "Proper warm-up, load management, technique, muscular balance, the right footwear and listening to early signals — how to meaningfully reduce the risk of sports injuries."
+    },
+    "rehabilitationTips": {
+      "title": "Rehabilitation That Works — Getting the Most Out of It | Dr. Vyacheslav Dubenko",
+      "description": "Consistency over intensity, realistic phases, sleep and nutrition, working well with your physiotherapist and the warning signs worth reporting — a practical guide to successful rehabilitation."
+    },
+    "returnToSport": {
+      "title": "Returning to Sport After Injury or Surgery | Dr. Vyacheslav Dubenko",
+      "description": "Return by criteria, not by calendar: the functional milestones, gradual load building, mental readiness and preventing re-injury."
+    }
+  },
+  "hub": {
+    "title": "Patient Information",
+    "subtitle": "Everything worth knowing before and after your visit: patient testimonials, answers to common questions and practical guides to rehabilitation and injury prevention.",
+    "cards": {
+      "testimonials": {
+        "title": "Patient Testimonials",
+        "description": "What patients say about their treatment and recovery — from shoulder and knee surgery to injections and rehabilitation."
+      },
+      "faq": {
+        "title": "FAQ",
+        "description": "Referrals and Maccabi, preparing for your visit, injections vs. surgery and recovery timelines — answers to the common questions."
+      },
+      "articles": {
+        "title": "Articles & Guides",
+        "description": "Practical guides: preventing sports injuries, rehabilitation that works and a safe return to sport."
+      }
+    },
+    "goodToKnow": {
+      "title": "Good to Know",
+      "items": {
+        "maccabi": {
+          "title": "Maccabi Arrangement",
+          "text": "Dr. Dubenko works under an arrangement with the Maccabi health fund — Maccabi members are seen according to their insurance track."
+        },
+        "imaging": {
+          "title": "Bring Imaging to the First Visit",
+          "text": "X-rays, MRI or ultrasound together with the written reports — a full picture allows a more precise and faster diagnosis."
+        },
+        "languages": {
+          "title": "Consultations in Hebrew & Russian",
+          "text": "The entire visit — from the diagnosis to the explanations — can be held in whichever language is comfortable for you."
+        }
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Patient Testimonials",
+    "subtitle": "What patients say about the diagnosis, treatment and recovery with Dr. Dubenko."
+  },
+  "faq": {
+    "title": "Questions & Answers",
+    "subtitle": "Answers to the questions patients ask most — from the first referral to the return to routine."
+  },
+  "articles": {
+    "title": "Articles & Guides",
+    "subtitle": "Practical guides written by Dr. Dubenko for patients and athletes — straightforward and free of unnecessary jargon.",
+    "readingTime": "{minutes, plural, one {# min read} other {# min read}}",
+    "readArticle": "Read the article"
+  }
+}

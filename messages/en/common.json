@@ -1,0 +1,151 @@
+{
+  "siteName": "Dr. Vyacheslav Dubenko",
+  "doctorName": "Dr. Vyacheslav Dubenko",
+  "doctorTitle": "Orthopedic Specialist, Shoulder & Knee Surgeon",
+  "experienceYears": "37 years of experience",
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "sports": "Sports Orthopedics",
+    "patientInfo": "Patient Info",
+    "contact": "Contact",
+    "appointment": "Book Appointment"
+  },
+  "servicesMenu": {
+    "shoulderElbow": "Shoulder & Elbow",
+    "knee": "Knee",
+    "ankleFoot": "Ankle & Foot",
+    "jointInjections": "Joint Injections",
+    "arthroscopy": "Arthroscopic Surgery",
+    "allServices": "All services",
+    "descriptions": {
+      "shoulderElbow": "Diagnosis and treatment of shoulder and elbow pain, injuries and instability",
+      "knee": "From meniscus and ligament injuries to advanced knee surgery",
+      "ankleFoot": "Care for sprains, instability and injuries of the ankle and foot",
+      "jointInjections": "PRP, hyaluronic acid and other alternatives to surgery",
+      "arthroscopy": "Minimally invasive joint surgery with faster recovery"
+    }
+  },
+  "patientInfoMenu": {
+    "testimonials": "Testimonials",
+    "faq": "FAQ",
+    "articles": "Articles & Guides",
+    "hub": "All patient info",
+    "descriptions": {
+      "testimonials": "What patients say about their treatment and recovery",
+      "faq": "Answers to common questions about visits, treatments and surgery",
+      "articles": "Practical guides on injury prevention and rehabilitation"
+    }
+  },
+  "contactMenu": {
+    "appointment": "Book an Appointment",
+    "contactUs": "Contact Us",
+    "descriptions": {
+      "appointment": "Request a visit online and we will call you back to confirm",
+      "contactUs": "Clinic addresses, phone numbers and opening hours"
+    }
+  },
+  "megaMenu": {
+    "eyebrow": {
+      "services": "Treatment Areas",
+      "patientInfo": "Patient Information",
+      "contact": "Appointment & Contact"
+    },
+    "cta": {
+      "title": "Suffering from pain or an injury?",
+      "text": "Book a consultation with Dr. Dubenko — 37 years of experience in orthopedic surgery.",
+      "button": "Book Appointment"
+    }
+  },
+  "header": {
+    "bookAppointment": "Book Appointment",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "phoneLabel": "Phone for appointments",
+    "mainNav": "Main navigation"
+  },
+  "footer": {
+    "clinics": "Clinics",
+    "quickLinks": "Quick Links",
+    "contactTitle": "Contact",
+    "legal": "Legal",
+    "accessibility": "Accessibility Statement",
+    "privacy": "Privacy Policy",
+    "cookies": "Cookie Policy",
+    "rights": "© {year} Dr. Vyacheslav Dubenko. All rights reserved.",
+    "maccabi": "Maccabi Health Fund arrangement"
+  },
+  "localeSwitcher": {
+    "label": "Language",
+    "he": "עברית",
+    "en": "English",
+    "ru": "Русский"
+  },
+  "breadcrumbs": {
+    "home": "Home"
+  },
+  "skipLink": "Skip to main content",
+  "cookieBanner": {
+    "text": "This website uses cookies to improve your browsing experience. By continuing to browse, you agree to our use of cookies.",
+    "accept": "Accept",
+    "decline": "Decline",
+    "learnMore": "Learn more"
+  },
+  "forms": {
+    "appointment": {
+      "title": "Book an Appointment",
+      "subtitle": "Fill in your details and we will get back to you shortly to schedule your visit",
+      "fullName": "Full name",
+      "phone": "Phone",
+      "email": "Email (optional)",
+      "clinic": "Preferred clinic",
+      "clinicPlaceholder": "Choose a clinic",
+      "date": "Preferred date",
+      "service": "Area of concern",
+      "servicePlaceholder": "Choose an area",
+      "message": "Details",
+      "messagePlaceholder": "Tell us briefly about the problem or injury",
+      "submit": "Request an Appointment",
+      "submitting": "Sending...",
+      "success": "Your request has been received!",
+      "successDetails": "We will call you shortly to confirm the appointment time.",
+      "error": "Something went wrong. Please try again or call us directly."
+    },
+    "contact": {
+      "title": "Contact Form",
+      "fullName": "Full name",
+      "phone": "Phone (optional)",
+      "email": "Email (optional)",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Send Message",
+      "submitting": "Sending...",
+      "success": "Your message has been sent!",
+      "successDetails": "We will get back to you as soon as possible.",
+      "error": "Something went wrong. Please try again or call us directly."
+    },
+    "validation": {
+      "nameRequired": "Please enter your full name",
+      "phoneRequired": "Please enter a valid phone number",
+      "messageRequired": "Please enter your message",
+      "invalidEmail": "Invalid email address"
+    }
+  },
+  "misc": {
+    "readMore": "Read more",
+    "learnMore": "Learn more",
+    "callNow": "Call now",
+    "backToServices": "Back to services",
+    "openInWaze": "Navigate with Waze",
+    "openInMaps": "Open in Google Maps",
+    "fax": "Fax",
+    "phone": "Phone",
+    "address": "Address"
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "description": "The page you were looking for does not exist or has been removed. Head back to the home page to find what you need.",
+    "backHome": "Back to Home"
+  }
+}

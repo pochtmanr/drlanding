@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "title": "Sports Orthopedics | Dr. Vyacheslav Dubenko — Shoulder & Knee Surgeon",
+    "description": "Sports injuries — from diagnosis and treatment to prevention and return to routine. Dr. Vyacheslav Dubenko, shoulder & knee surgeon with 37 years of experience, specializes in sports injuries and minimally invasive arthroscopic surgery."
+  },
+  "injuries": {
+    "eyebrow": "Common injuries",
+    "title": "Sports injuries worth knowing about",
+    "subtitle": "Four of the most common injuries among athletes — and not only. Click any injury for detailed information on diagnosis and treatment.",
+    "cards": {
+      "meniscus": {
+        "title": "Meniscus tear",
+        "description": "Pain on the side of the knee after a run, or a \"click\" during a sudden turn in a game? A meniscus tear is one of the most common knee injuries — and does not always require surgery."
+      },
+      "acl": {
+        "title": "Knee ligament injury",
+        "description": "An awkward landing, the knee twists, sharp pain and immediate swelling — the classic picture of an anterior cruciate ligament tear, a significant injury that calls for professional evaluation."
+      },
+      "shoulderDislocation": {
+        "title": "Shoulder dislocation",
+        "description": "A dislocated shoulder — in sport or at work — is a significant joint injury. The right treatment approach determines your chances of returning to your previous level of activity."
+      },
+      "ankleSprain": {
+        "title": "Ankle sprain",
+        "description": "Twisting your foot while running or playing — one of the most common injuries in orthopedics. Most cases are treated conservatively, but chronic instability may require surgery."
+      }
+    }
+  }
+}

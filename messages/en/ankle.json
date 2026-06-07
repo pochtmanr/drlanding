@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "title": "Ankle & Foot — Diagnosis and Treatment | Dr. Vyacheslav Dubenko",
+    "description": "Sprains, chronic instability and Achilles tendon injuries — ankle and foot diagnosis and treatment by Dr. Vyacheslav Dubenko, orthopedic specialist with 37 years of experience. Maccabi clinics."
+  },
+  "pages": {
+    "injuries": {
+      "metaTitle": "Ankle & Foot Injuries — Sprains & Achilles | Dr. Vyacheslav Dubenko",
+      "metaDescription": "Ankle sprains, chronic instability and Achilles tendon problems — how to recognize each injury, what the right treatment is and when to see an ankle and foot specialist."
+    },
+    "injections": {
+      "metaTitle": "Ankle & Foot Injections | Dr. Vyacheslav Dubenko",
+      "metaDescription": "Ankle and foot injections: when they are appropriate, which types exist — steroids, hyaluronic acid and PRP — and what the treatment actually looks like."
+    },
+    "surgery": {
+      "metaTitle": "Ankle Surgery — Arthroscopy & Stabilization | Dr. Vyacheslav Dubenko",
+      "metaDescription": "Ankle surgery: minimally invasive arthroscopy and stabilization procedures for chronic instability. When to operate, how it is done and what to expect in recovery."
+    },
+    "rehabilitation": {
+      "metaTitle": "Rehabilitation After Ankle Surgery | Dr. Vyacheslav Dubenko",
+      "metaDescription": "Rehabilitation after ankle surgery: the recovery phases, gradual weight-bearing progression and the safe path back to full activity and sport."
+    },
+    "physiotherapy": {
+      "metaTitle": "Ankle & Foot Physiotherapy | Dr. Vyacheslav Dubenko",
+      "metaDescription": "Ankle physiotherapy: balance and proprioception training, targeted strengthening and prevention of repeat sprains — the treatment that restores ankle stability."
+    }
+  },
+  "cards": {
+    "injuries": {
+      "title": "Ankle & Foot Injuries",
+      "description": "Sprains, chronic instability and Achilles tendon problems — how to recognize them, what to do and when to see a specialist."
+    },
+    "injections": {
+      "title": "Ankle & Foot Injections",
+      "description": "When an injection is appropriate, which types exist and what the treatment looks like — from diagnosis to the return to activity."
+    },
+    "surgery": {
+      "title": "Ankle Surgery",
+      "description": "Minimally invasive arthroscopy and stabilization surgery for chronic instability — when to operate and what to expect."
+    },
+    "rehabilitation": {
+      "title": "Rehabilitation After Ankle Surgery",
+      "description": "The rehabilitation phases, weight-bearing progression and the graduated return to full activity and sport."
+    },
+    "physiotherapy": {
+      "title": "Ankle & Foot Physiotherapy",
+      "description": "Balance, proprioception and targeted strengthening — the treatment that prevents the next sprain."
+    }
+  },
+  "links": {
+    "jointInjections": "All types of joint injections"
+  },
+  "related": "Read also"
+}

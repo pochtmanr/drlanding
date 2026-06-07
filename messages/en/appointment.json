@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "title": "Book an Appointment — Dr. Vyacheslav Dubenko, Orthopedic Specialist",
+    "description": "Book an orthopedic consultation with Dr. Vyacheslav Dubenko, shoulder and knee surgeon with 37 years of experience. Send the form or call one of the four clinics — in Rehovot, Bnei Ayish and Rishon LeZion."
+  },
+  "hero": {
+    "title": "Book an Appointment",
+    "subtitle": "Leave your details in the form and we will call you back to schedule a time — or call one of the clinics directly."
+  },
+  "howItWorks": {
+    "heading": "How it works",
+    "steps": {
+      "1": {
+        "title": "Send the form",
+        "text": "Fill in your name, phone number and a few words about your concern — it takes less than a minute."
+      },
+      "2": {
+        "title": "We call you back",
+        "text": "A clinic representative calls you to schedule the appointment at the clinic most convenient for you."
+      },
+      "3": {
+        "title": "Come to your visit",
+        "text": "Bring a referral (if required under Maccabi's rules) and any previous imaging — X-ray, ultrasound, CT or MRI."
+      }
+    }
+  },
+  "byPhone": {
+    "heading": "Prefer to book by phone?",
+    "text": "You can call the clinic most convenient for you directly:"
+  },
+  "maccabiNote": "Dr. Dubenko sees patients under an arrangement with the Maccabi health fund. A referral may be required depending on the fund's rules — it is best to check with Maccabi before your visit.",
+  "honestyNote": "Please note: sending the form is a request for an appointment, not a confirmed slot. We will call you back as soon as we can, but availability depends on the clinic schedule and we cannot always offer an immediate date. Even when no slots appear available online — call us, and we will find a solution together."
+}

@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "title": "Contact — The Clinics of Dr. Vyacheslav Dubenko",
+    "description": "Addresses, phone numbers and directions for the four clinics of Dr. Vyacheslav Dubenko in Rehovot, Bnei Ayish and Rishon LeZion — plus a contact form for any other question."
+  },
+  "hero": {
+    "title": "Contact Us",
+    "subtitle": "All addresses, phone numbers and directions for the four clinics — and for anything else, we are glad to hear from you through the form."
+  },
+  "clinics": {
+    "heading": "The Clinics"
+  },
+  "urgent": {
+    "heading": "Urgent questions",
+    "text": "The website form is not intended for urgent matters. In a medical emergency, call 101 (Magen David Adom) or go to the nearest emergency room immediately. For an urgent question about an existing appointment — call the clinic directly.",
+    "mainPhoneLabel": "Main booking phone:"
+  }
+}

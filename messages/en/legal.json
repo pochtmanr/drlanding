@@ -1,0 +1,20 @@
+{
+  "accessibility": {
+    "meta": {
+      "title": "Accessibility Statement",
+      "description": "The accessibility statement of Dr. Vyacheslav Dubenko's website — our commitment to Israeli Standard 5568 and WCAG 2.1 AA, what the site supports and how to report an accessibility issue."
+    }
+  },
+  "privacy": {
+    "meta": {
+      "title": "Privacy Policy",
+      "description": "The privacy policy of Dr. Vyacheslav Dubenko's website — what details the forms collect, for what purpose, how they are stored and how to request access or deletion."
+    }
+  },
+  "cookies": {
+    "meta": {
+      "title": "Cookies Notice",
+      "description": "The cookies notice of Dr. Vyacheslav Dubenko's website — which cookies and local storage the site uses, with no advertising trackers, and how to clear them in your browser."
+    }
+  }
+}

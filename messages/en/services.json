@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "title": "Treatment Areas | Dr. Vyacheslav Dubenko — Shoulder & Knee Surgeon",
+    "description": "All treatment areas of Dr. Vyacheslav Dubenko: shoulder & elbow, knee, ankle & foot, joint injections and arthroscopic surgery. 37 years of experience, Maccabi clinics in Rehovot, Bnei Ayish and Rishon LeZion."
+  },
+  "hero": {
+    "title": "Treatment Areas",
+    "subtitle": "From the first diagnosis through surgery and rehabilitation — Dr. Dubenko accompanies you at every step of the way. Choose an area to read about diagnosis and treatment options."
+  },
+  "cards": {
+    "shoulderElbow": "Shoulder pain, tendon tears, instability and elbow injuries — precise diagnosis and a full range of solutions, from conservative care to arthroscopic surgery.",
+    "knee": "Meniscus tears, ligament injuries and cartilage wear — Dr. Dubenko's core specialty, with a clear preference for conservative treatment first.",
+    "ankleFoot": "Recurrent sprains, instability and sports injuries of the ankle and foot — from diagnosis to a full return to activity.",
+    "jointInjections": "PRP, hyaluronic acid, Orthokine and steroid injections — effective alternatives to surgery in suitable cases.",
+    "arthroscopy": "Minimally invasive surgery of the shoulder, elbow, knee and ankle — small incisions, less pain and a faster recovery."
+  }
+}

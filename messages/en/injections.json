@@ -1,0 +1,71 @@
+{
+  "meta": {
+    "title": "Joint Injections — PRP, Hyaluronic Acid & More | Dr. Vyacheslav Dubenko",
+    "description": "Joint injections as a conservative alternative to surgery: PRP, hyaluronic acid, Orthokine and steroids — with Dr. Vyacheslav Dubenko, orthopedic specialist with 37 years of experience. Maccabi clinics."
+  },
+  "pages": {
+    "prpHyaluronicCombined": {
+      "metaTitle": "Combined PRP + Hyaluronic Acid Injection | Dr. Vyacheslav Dubenko",
+      "metaDescription": "The combined growth-factor injection — PRP and hyaluronic acid together: the therapeutic rationale, who the combination suits and how the treatment is performed."
+    },
+    "prp": {
+      "metaTitle": "PRP Injections — Platelet-Rich Plasma | Dr. Vyacheslav Dubenko",
+      "metaDescription": "PRP injections for joints and tendons: how platelet-rich plasma supports healing, what the treatment actually looks like and what is realistic to expect."
+    },
+    "orthokine": {
+      "metaTitle": "Orthokine Therapy — Autologous Serum | Dr. Vyacheslav Dubenko",
+      "metaDescription": "Orthokine therapy: serum enriched with anti-inflammatory proteins from your own blood, in a series of injections for joint wear and chronic inflammation."
+    },
+    "hyaluronicAcid": {
+      "metaTitle": "Hyaluronic Acid Joint Injection | Dr. Vyacheslav Dubenko",
+      "metaDescription": "Hyaluronic acid injection: re-lubricating a worn joint, relieving arthrosis pain and improving movement — when the treatment is appropriate and what to expect."
+    },
+    "steroid": {
+      "metaTitle": "Steroid (Cortisone) Joint Injection | Dr. Vyacheslav Dubenko",
+      "metaDescription": "Steroid joint injection: fast relief of painful inflammation, when it is the right choice — and why limiting the frequency of injections matters."
+    },
+    "insuranceForms": {
+      "metaTitle": "Insurance Claim Forms & Paperwork | Dr. Vyacheslav Dubenko",
+      "metaDescription": "Which medical documents you will receive from the clinic and how to submit a claim to your insurer or Maccabi — a practical guide for the patient."
+    },
+    "selfPhysiotherapy": {
+      "metaTitle": "Self-Practice Physiotherapy | Dr. Vyacheslav Dubenko",
+      "metaDescription": "Principles of safe home exercise before and after joint injections: the pain rule, gradual progression and consistency — how to get the most out of the treatment."
+    }
+  },
+  "cards": {
+    "prpHyaluronicCombined": {
+      "title": "Combined Injection — PRP + Hyaluronic Acid",
+      "description": "The combined growth-factor injection: biological support for healing plus joint lubrication — in a single treatment."
+    },
+    "prp": {
+      "title": "PRP Injections",
+      "description": "Platelet-rich plasma from your own blood — growth factors that support the healing of joints and tendons."
+    },
+    "orthokine": {
+      "title": "Orthokine Therapy",
+      "description": "Autologous serum enriched with anti-inflammatory proteins — a series of injections for joint wear and chronic inflammation."
+    },
+    "hyaluronicAcid": {
+      "title": "Hyaluronic Acid",
+      "description": "\"Oil for the joint\" — renewed lubrication that reduces friction and pain and improves movement in cartilage wear."
+    },
+    "steroid": {
+      "title": "Steroid (Cortisone) Injection",
+      "description": "The fastest relief for painful inflammation — used judiciously and at a sensible frequency."
+    },
+    "insuranceForms": {
+      "title": "Insurance Forms",
+      "description": "Which documents the clinic provides and how to submit a claim to your insurer or Maccabi — without the headache."
+    },
+    "selfPhysiotherapy": {
+      "title": "Self-Practice Physiotherapy",
+      "description": "Principles of safe home exercise before and after the injection — so the improvement stays."
+    }
+  },
+  "links": {
+    "kneeInjectionsVsSurgery": "Knee injections as an alternative to surgery",
+    "contact": "Contact & appointments"
+  },
+  "related": "Read also"
+}

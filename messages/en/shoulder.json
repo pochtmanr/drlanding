@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "title": "Shoulder & Elbow — Diagnosis and Treatment | Dr. Vyacheslav Dubenko",
+    "description": "Shoulder pain, rotator cuff tears, instability and elbow injuries — diagnosis and treatment by Dr. Vyacheslav Dubenko, shoulder & knee surgeon with 37 years of experience. Maccabi clinics."
+  },
+  "pages": {
+    "shoulderPainInjuries": {
+      "metaTitle": "Shoulder Pain & Injury Types | Dr. Vyacheslav Dubenko",
+      "metaDescription": "Rotator cuff tears, shoulder dislocation, frozen shoulder and impingement syndrome — a comprehensive guide to recognizing common shoulder injuries and when to see a shoulder specialist."
+    },
+    "injections": {
+      "metaTitle": "Shoulder & Elbow Injections | Dr. Vyacheslav Dubenko",
+      "metaDescription": "Shoulder and elbow injections: which conditions they treat, the available injection types, how the procedure works and aftercare guidance — from a specialist with 37 years of experience."
+    },
+    "shoulderSurgery": {
+      "metaTitle": "Shoulder Surgery — Rotator Cuff Repair & Stabilization | Dr. Vyacheslav Dubenko",
+      "metaDescription": "Arthroscopic shoulder surgery: rotator cuff repair and shoulder stabilization after dislocations. How to prepare for surgery and what to expect during recovery."
+    },
+    "elbowSurgery": {
+      "metaTitle": "Elbow Surgery | Dr. Vyacheslav Dubenko",
+      "metaDescription": "Elbow surgery: tennis elbow and golfer's elbow that resist conservative care, loose bodies in the joint and elbow arthroscopy — when surgery is needed and what to expect."
+    },
+    "rehabilitation": {
+      "metaTitle": "Rehabilitation After Shoulder Surgery | Dr. Vyacheslav Dubenko",
+      "metaDescription": "Rehabilitation after shoulder surgery: recovery phases, typical timelines, working with a physiotherapist and tips for a safe return to daily life and sport."
+    },
+    "physiotherapy": {
+      "metaTitle": "Shoulder Physiotherapy — Conservative Care | Dr. Vyacheslav Dubenko",
+      "metaDescription": "Shoulder physiotherapy as first-line treatment: exercise principles, muscle strengthening and restoring range of motion — and when conservative care is preferable to surgery."
+    }
+  },
+  "cards": {
+    "shoulderPainInjuries": {
+      "title": "Shoulder Pain & Injury Types",
+      "description": "Rotator cuff tears, dislocations and instability, frozen shoulder and impingement — how to recognize each injury, and when to see a specialist."
+    },
+    "injections": {
+      "title": "Shoulder & Elbow Injections",
+      "description": "When an injection relieves pain and spares surgery — the injection types, how the treatment works and aftercare."
+    },
+    "shoulderSurgery": {
+      "title": "Shoulder Surgery",
+      "description": "Arthroscopic rotator cuff repair and shoulder stabilization — preparing for surgery and what recovery looks like."
+    },
+    "elbowSurgery": {
+      "title": "Elbow Surgery",
+      "description": "Persistent tennis and golfer's elbow, loose bodies in the joint and elbow arthroscopy."
+    },
+    "rehabilitation": {
+      "title": "Rehabilitation After Shoulder Surgery",
+      "description": "Recovery phases, typical timelines and working together with your physiotherapist — from the day after surgery to full routine."
+    },
+    "physiotherapy": {
+      "title": "Shoulder Physiotherapy",
+      "description": "Conservative care as the first line: exercise principles, strengthening and range of motion — and when it's the right choice."
+    }
+  },
+  "related": "Read also"
+}
