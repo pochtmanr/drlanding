@@ -1,1 +1,53 @@
-{}
+{
+  "shell": {
+    "siteName": "Dr. Vyacheslav Dubenko",
+    "adminBadge": "Admin",
+    "signOut": "Sign out"
+  },
+  "login": {
+    "title": "Admin sign-in",
+    "email": "Email",
+    "password": "Password",
+    "submit": "Sign in",
+    "submitting": "Signing in...",
+    "error": "Sign-in failed. Please check your details and try again."
+  },
+  "dashboard": {
+    "title": "Inquiry management",
+    "tabs": {
+      "appointments": "Appointment requests",
+      "messages": "Messages"
+    },
+    "filterAll": "All",
+    "count": "{count, plural, =0 {No inquiries} one {# inquiry} other {# inquiries}}",
+    "emptyAppointments": "No appointment requests to show.",
+    "emptyMessages": "No messages to show."
+  },
+  "status": {
+    "new": "New",
+    "received": "Received",
+    "confirmed": "Confirmed",
+    "rejected": "Rejected",
+    "responded": "Responded",
+    "completed": "Completed"
+  },
+  "card": {
+    "phone": "Phone",
+    "email": "Email",
+    "clinic": "Preferred clinic",
+    "date": "Preferred date",
+    "service": "Service",
+    "subject": "Subject",
+    "message": "Message",
+    "created": "Submitted",
+    "language": "Language",
+    "statusLabel": "Status",
+    "notes": "Admin notes",
+    "notesPlaceholder": "Internal notes about this inquiry...",
+    "showNotes": "Notes",
+    "save": "Save notes",
+    "saving": "Saving...",
+    "saved": "Saved",
+    "error": "Saving failed. Please try again."
+  }
+}

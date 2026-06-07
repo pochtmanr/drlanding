@@ -1,1 +1,53 @@
-{}
+{
+  "shell": {
+    "siteName": "ד\"ר ויאצ'סלב דובנקו",
+    "adminBadge": "ניהול",
+    "signOut": "התנתקות"
+  },
+  "login": {
+    "title": "כניסת מנהל",
+    "email": "אימייל",
+    "password": "סיסמה",
+    "submit": "כניסה",
+    "submitting": "מתחבר...",
+    "error": "ההתחברות נכשלה. בדקו את הפרטים ונסו שוב."
+  },
+  "dashboard": {
+    "title": "ניהול פניות",
+    "tabs": {
+      "appointments": "בקשות תור",
+      "messages": "הודעות"
+    },
+    "filterAll": "הכול",
+    "count": "{count, plural, =0 {אין פניות} one {פנייה אחת} two {שתי פניות} other {# פניות}}",
+    "emptyAppointments": "אין בקשות תור להצגה.",
+    "emptyMessages": "אין הודעות להצגה."
+  },
+  "status": {
+    "new": "חדשה",
+    "received": "התקבלה",
+    "confirmed": "אושרה",
+    "rejected": "נדחתה",
+    "responded": "נענתה",
+    "completed": "הושלמה"
+  },
+  "card": {
+    "phone": "טלפון",
+    "email": "אימייל",
+    "clinic": "מרפאה מועדפת",
+    "date": "תאריך מועדף",
+    "service": "שירות",
+    "subject": "נושא",
+    "message": "הודעה",
+    "created": "התקבלה",
+    "language": "שפה",
+    "statusLabel": "סטטוס",
+    "notes": "הערות מנהל",
+    "notesPlaceholder": "הערות פנימיות על הפנייה...",
+    "showNotes": "הערות",
+    "save": "שמירת הערות",
+    "saving": "שומר...",
+    "saved": "נשמר",
+    "error": "השמירה נכשלה. נסו שוב."
+  }
+}
