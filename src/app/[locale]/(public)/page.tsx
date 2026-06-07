@@ -94,12 +94,7 @@ export default async function HomePage({
   return (
     <>
       {/* 1. Hero */}
-      <div className="relative -mt-18 flex min-h-svh items-center overflow-hidden bg-gradient-to-b from-primary-soft/70 via-primary-faint to-white pt-18">
-        {/* Decorative halo */}
-        <div
-          aria-hidden
-          className="pointer-events-none absolute -top-40 end-[-10%] size-[34rem] rounded-full bg-primary/10 blur-3xl"
-        />
+      <div className="relative -mt-18 flex min-h-svh items-center overflow-hidden bg-white pt-18">
         <Container className="relative w-full py-16">
           <div className="grid items-center gap-12 lg:grid-cols-2 lg:gap-16">
             <div>

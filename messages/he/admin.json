@@ -41,6 +41,8 @@
     "message": "הודעה",
     "created": "התקבלה",
     "language": "שפה",
+    "sourceWhatsapp": "וואטסאפ",
+    "waPhone": "וואטסאפ",
     "statusLabel": "סטטוס",
     "notes": "הערות מנהל",
     "notesPlaceholder": "הערות פנימיות על הפנייה...",

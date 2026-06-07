@@ -136,6 +136,9 @@ export function InquiryCard({ table, row }: InquiryCardProps) {
           <Badge tone="neutral" aria-label={t("card.language")}>
             {row.locale.toUpperCase()}
           </Badge>
+          {row.source === "whatsapp" && (
+            <Badge tone="success">{t("card.sourceWhatsapp")}</Badge>
+          )}
         </div>
         <p className="text-sm text-muted">
           {t("card.created")}: {createdAt}
@@ -171,6 +174,19 @@ export function InquiryCard({ table, row }: InquiryCardProps) {
           <Detail label={t("card.date")}>{preferredDate}</Detail>
         )}
         {service && <Detail label={t("card.service")}>{service}</Detail>}
+        {table === "appointments" && row.wa_phone && (
+          <Detail label={t("card.waPhone")}>
+            <a
+              href={`https://wa.me/${row.wa_phone.replace(/\D/g, "")}`}
+              target="_blank"
+              rel="noreferrer"
+              dir="ltr"
+              className="text-primary hover:underline"
+            >
+              {row.wa_phone}
+            </a>
+          </Detail>
+        )}
         {table === "contact_messages" && row.subject && (
           <Detail label={t("card.subject")}>{row.subject}</Detail>
         )}

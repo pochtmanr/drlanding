@@ -15,6 +15,8 @@ export const INQUIRY_STATUSES: InquiryStatus[] = [
   "completed",
 ];
 
+export type InquirySource = "website" | "whatsapp";
+
 /* NOTE: these must be `type` aliases (not interfaces) — supabase-js needs
    implicit index signatures to resolve table types. */
 
@@ -32,6 +34,8 @@ export type AppointmentRow = {
   locale: string;
   status: InquiryStatus;
   admin_notes: string | null;
+  source: InquirySource;
+  wa_phone: string | null;
 };
 
 export type ContactMessageRow = {
@@ -46,6 +50,7 @@ export type ContactMessageRow = {
   locale: string;
   status: InquiryStatus;
   admin_notes: string | null;
+  source: InquirySource;
 };
 
 export type AppointmentInsert = {
@@ -57,6 +62,8 @@ export type AppointmentInsert = {
   preferred_date?: string | null;
   service?: string | null;
   message?: string | null;
+  source?: InquirySource;
+  wa_phone?: string | null;
 };
 
 export type ContactMessageInsert = {
@@ -66,6 +73,7 @@ export type ContactMessageInsert = {
   email?: string | null;
   phone?: string | null;
   subject?: string | null;
+  source?: InquirySource;
 };
 
 export type InquiryUpdate = {
@@ -93,6 +101,7 @@ export type Database = {
     Functions: { [_ in never]: never };
     Enums: {
       inquiry_status: InquiryStatus;
+      inquiry_source: InquirySource;
     };
     CompositeTypes: { [_ in never]: never };
   };

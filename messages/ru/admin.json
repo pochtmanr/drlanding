@@ -41,6 +41,8 @@
     "message": "Сообщение",
     "created": "Отправлено",
     "language": "Язык",
+    "sourceWhatsapp": "WhatsApp",
+    "waPhone": "WhatsApp",
     "statusLabel": "Статус",
     "notes": "Заметки администратора",
     "notesPlaceholder": "Внутренние заметки по обращению...",

@@ -12,12 +12,11 @@ export function Footer() {
   const year = new Date().getFullYear();
 
   return (
-    <footer className="border-t border-line bg-primary-faint">
+    <footer className="border-t border-line bg-white">
       <Container className="grid gap-12 py-16 md:grid-cols-2 xl:grid-cols-4">
         {/* Brand */}
         <div>
           <div className="flex items-center gap-3">
-
             <span className="font-semibold">{t("doctorName")}</span>
           </div>
           <p className="mt-4 max-w-xs text-[15px] leading-relaxed text-muted">
@@ -88,7 +87,10 @@ export function Footer() {
       <div className="border-t border-line/70">
         <Container className="flex flex-col items-center justify-between gap-3 py-6 text-sm text-muted md:flex-row">
           <p>{t("footer.rights", { year })}</p>
-          <nav aria-label={t("footer.legal")} className="flex gap-5">
+          <nav
+            aria-label={t("footer.legal")}
+            className="flex flex-wrap justify-center gap-x-5 gap-y-1"
+          >
             {LEGAL_LINKS.map((link) => (
               <Link
                 key={link.href}

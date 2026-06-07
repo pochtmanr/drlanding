@@ -41,6 +41,8 @@
     "message": "Message",
     "created": "Submitted",
     "language": "Language",
+    "sourceWhatsapp": "WhatsApp",
+    "waPhone": "WhatsApp",
     "statusLabel": "Status",
     "notes": "Admin notes",
     "notesPlaceholder": "Internal notes about this inquiry...",

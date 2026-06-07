@@ -1,6 +1,7 @@
 import { useLocale, useTranslations } from "next-intl";
 import type { ClinicLocation, Locale } from "@/content/types";
 import { Card } from "@/components/ui/card";
+import { MapPinIcon, WazeIcon } from "@/components/ui/icons";
 
 /** Renders one clinic with address, phones and navigation deep links. */
 export function ClinicCard({ clinic }: { clinic: ClinicLocation }) {
@@ -61,16 +62,18 @@ export function ClinicCard({ clinic }: { clinic: ClinicLocation }) {
           href={`https://waze.com/ul?q=${query}&navigate=yes`}
           target="_blank"
           rel="noopener noreferrer"
-          className="rounded-full bg-primary-soft px-4 py-2 text-sm font-medium text-primary-deep transition-colors hover:bg-primary hover:text-white"
+          className="inline-flex items-center gap-2 rounded-full bg-primary-soft px-4 py-2 text-sm font-medium text-primary-deep transition-colors hover:bg-primary hover:text-white"
         >
+          <WazeIcon className="size-4 shrink-0" />
           {t("openInWaze")}
         </a>
         <a
           href={`https://www.google.com/maps/search/?api=1&query=${query}`}
           target="_blank"
           rel="noopener noreferrer"
-          className="rounded-full bg-primary-soft px-4 py-2 text-sm font-medium text-primary-deep transition-colors hover:bg-primary hover:text-white"
+          className="inline-flex items-center gap-2 rounded-full bg-primary-soft px-4 py-2 text-sm font-medium text-primary-deep transition-colors hover:bg-primary hover:text-white"
         >
+          <MapPinIcon className="size-4 shrink-0" />
           {t("openInMaps")}
         </a>
       </div>
