@@ -5,6 +5,8 @@ import { Container } from "@/components/ui/container";
 import { PageHero } from "@/components/sections/page-hero";
 import { CtaBanner } from "@/components/sections/cta-banner";
 import { FadeIn } from "@/components/motion/fade-in";
+import { JsonLd } from "@/components/seo/json-ld";
+import { buildMedicalWebPage } from "@/lib/schema";
 import { article } from "@/content/patient-info/articles/sports-injury-prevention";
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
@@ -31,6 +33,13 @@ export default async function SportsInjuryPreventionPage({
 
   return (
     <>
+      <JsonLd
+        data={buildMedicalWebPage(locale as Locale, {
+          title: c.title,
+          description: c.description,
+          path: "/patient-info/articles/sports-injury-prevention",
+        })}
+      />
       <PageHero
         title={c.title}
         subtitle={c.description}

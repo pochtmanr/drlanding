@@ -141,7 +141,8 @@
     "openInMaps": "Open in Google Maps",
     "fax": "Fax",
     "phone": "Phone",
-    "address": "Address"
+    "address": "Address",
+    "close": "Close"
   },
   "notFound": {
     "title": "Page Not Found",

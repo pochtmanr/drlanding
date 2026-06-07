@@ -43,22 +43,23 @@ export default async function KneePage({
       <PageHero
         title={c.title}
         subtitle={c.subtitle}
+        image="/services/knee.avif"
         breadcrumbs={[
           { label: tCommon("nav.services"), href: "/services" },
           { label: tCommon("servicesMenu.knee") },
         ]}
-      />
-
-      <Container className="pt-6 pb-14 md:pt-8 md:pb-20">
-        <div className="max-w-3xl space-y-4">
+      >
+        <div className="mt-6 space-y-4">
           {c.intro.map((paragraph, i) => (
-            <p key={i} className="text-lg leading-relaxed text-ink/85">
+            <p key={i} className="leading-relaxed text-ink/85">
               {paragraph}
             </p>
           ))}
         </div>
+      </PageHero>
 
-        <Stagger className="mt-12 grid grid-cols-1 gap-6 md:grid-cols-2 md:gap-8">
+      <Container className="pt-6 pb-14 md:pt-8 md:pb-20">
+        <Stagger className="grid grid-cols-1 gap-6 md:grid-cols-2 md:gap-8">
           {subpages.map((page) => (
             <StaggerItem key={page.key} className="h-full">
               <ServiceCategoryCard

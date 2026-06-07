@@ -2,5 +2,16 @@
   "meta": {
     "title": "About Dr. Vyacheslav Dubenko | Orthopedic Specialist, Shoulder & Knee Surgeon",
     "description": "Meet Dr. Vyacheslav Dubenko — orthopedic specialist and shoulder & knee surgeon with 37 years of experience. Conservative-first treatment philosophy, arthroscopic surgery, and Maccabi clinics in Rehovot, Bnei Ayish and Rishon LeZion."
+  },
+  "credentials": {
+    "meta": {
+      "title": "Licenses & Certificates to Practice Medicine in Israel",
+      "description": "The official documents authorizing Dr. Vyacheslav Dubenko to practice medicine in Israel: the Ministry of Health license, the specialist certificate in orthopedic surgery, recognition of the medical degree and recognition of professional seniority."
+    },
+    "documents": {
+      "eyebrow": "The documents",
+      "title": "Four official documents, full transparency",
+      "subtitle": "Click any document to view it full size. The national ID number has been redacted to protect privacy."
+    }
   }
 }

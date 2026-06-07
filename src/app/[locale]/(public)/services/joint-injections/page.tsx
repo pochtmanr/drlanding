@@ -5,7 +5,6 @@ import { Container } from "@/components/ui/container";
 import { PageHero } from "@/components/sections/page-hero";
 import { CtaBanner } from "@/components/sections/cta-banner";
 import { ServiceCategoryCard } from "@/components/sections/service-category-card";
-import { FadeIn } from "@/components/motion/fade-in";
 import { Stagger, StaggerItem } from "@/components/motion/stagger";
 import { content } from "@/content/services/injections";
 
@@ -46,22 +45,23 @@ export default async function JointInjectionsPage({
       <PageHero
         title={c.title}
         subtitle={c.subtitle}
+        image="/services/joint-injections.webp"
         breadcrumbs={[
           { label: tCommon("nav.services"), href: "/services" },
           { label: tCommon("servicesMenu.jointInjections") },
         ]}
-      />
-
-      <Container className="pt-6 pb-14 md:pt-8 md:pb-20">
-        <div className="max-w-3xl space-y-4">
+      >
+        <div className="mt-6 space-y-4">
           {c.intro.map((paragraph, i) => (
-            <FadeIn key={i}>
-              <p className="text-lg leading-relaxed text-ink/85">{paragraph}</p>
-            </FadeIn>
+            <p key={i} className="leading-relaxed text-ink/85">
+              {paragraph}
+            </p>
           ))}
         </div>
+      </PageHero>
 
-        <Stagger className="mt-12 grid grid-cols-1 gap-6 md:grid-cols-2 md:gap-8">
+      <Container className="pt-6 pb-14 md:pt-8 md:pb-20">
+        <Stagger className="grid grid-cols-1 gap-6 md:grid-cols-2 md:gap-8">
           {subpages.map((page) => (
             <StaggerItem key={page.key} className="h-full">
               <ServiceCategoryCard

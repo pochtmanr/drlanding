@@ -141,7 +141,8 @@
     "openInMaps": "פתיחה ב-Google Maps",
     "fax": "פקס",
     "phone": "טלפון",
-    "address": "כתובת"
+    "address": "כתובת",
+    "close": "סגירה"
   },
   "notFound": {
     "title": "העמוד לא נמצא",

@@ -6,6 +6,7 @@ import { PageHero } from "@/components/sections/page-hero";
 import { CtaBanner } from "@/components/sections/cta-banner";
 import { FaqAccordion } from "@/components/sections/faq-accordion";
 import { FadeIn } from "@/components/motion/fade-in";
+import { JsonLd } from "@/components/seo/json-ld";
 import { faq } from "@/content/patient-info/faq";
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
@@ -43,13 +44,7 @@ export default async function FaqPage({
 
   return (
     <>
-      {/* Static first-party content; "<" escaped so no sequence can close the tag. */}
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{
-          __html: JSON.stringify(jsonLd).replace(/</g, "\\u003c"),
-        }}
-      />
+      <JsonLd data={jsonLd} />
 
       <PageHero
         title={t("faq.title")}

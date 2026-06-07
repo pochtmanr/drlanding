@@ -1,9 +1,10 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { Manrope, Rubik } from "next/font/google";
 import { notFound } from "next/navigation";
 import { NextIntlClientProvider, hasLocale } from "next-intl";
 import { setRequestLocale } from "next-intl/server";
 import { routing } from "@/i18n/routing";
+import { site } from "@/content/site";
 import "../globals.css";
 
 const rubik = Rubik({
@@ -21,10 +22,16 @@ const manrope = Manrope({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL(site.baseUrl),
   title: {
     default: "Dr. Vyacheslav Dubenko",
     template: "%s | Dr. Vyacheslav Dubenko",
   },
+};
+
+export const viewport: Viewport = {
+  // --color-primary from globals.css
+  themeColor: "#0085e6",
 };
 
 export function generateStaticParams() {

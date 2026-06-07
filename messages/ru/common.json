@@ -141,7 +141,8 @@
     "openInMaps": "Открыть в Google Maps",
     "fax": "Факс",
     "phone": "Телефон",
-    "address": "Адрес"
+    "address": "Адрес",
+    "close": "Закрыть"
   },
   "notFound": {
     "title": "Страница не найдена",

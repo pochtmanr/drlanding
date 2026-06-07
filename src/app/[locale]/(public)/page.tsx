@@ -188,6 +188,9 @@ export default async function HomePage({
             <SectionHeading eyebrow={t("intro.eyebrow")} title={t("intro.title")} />
             <p className="mt-6 text-lg leading-relaxed text-muted">{t("intro.p1")}</p>
             <p className="mt-4 text-lg leading-relaxed text-muted">{t("intro.p2")}</p>
+            <Button asChild variant="outline" className="mt-8">
+              <Link href="/about/credentials">{t("intro.credentialsLink")}</Link>
+            </Button>
           </div>
         </div>
       </Section>

@@ -1,0 +1,47 @@
+# Dr. Vyacheslav Dubenko — Orthopedic Surgeon in Israel
+
+> Dr. Vyacheslav Dubenko is an orthopedic specialist and shoulder & knee
+> surgeon with 37 years of experience, seeing patients at four clinics in
+> Bnei Ayish, Rehovot and Rishon LeZion, Israel (Maccabi Health Fund
+> arrangement). The site is trilingual: Hebrew (default), English and Russian.
+
+He is licensed by the Israel Ministry of Health (license No. 35902) and holds
+a specialist certificate in orthopedic surgery (No. 1-27726). Treatment areas
+include shoulder & elbow, knee, ankle & foot, joint injections (PRP,
+hyaluronic acid, Orthokine, steroid) and arthroscopic surgery.
+
+## Main pages
+
+- [Home](https://dr-dubenko.co.il/en): overview of the practice and how to book a visit
+- [About Dr. Dubenko](https://dr-dubenko.co.il/en/about): biography, experience and approach
+- [Licenses & Certificates](https://dr-dubenko.co.il/en/about/credentials): Ministry of Health license No. 35902, specialist certificate No. 1-27726
+- [Contact](https://dr-dubenko.co.il/en/contact): the four clinic locations, addresses and phone numbers
+- [Book an Appointment](https://dr-dubenko.co.il/en/appointment): online appointment request
+
+## Services
+
+- [All services](https://dr-dubenko.co.il/en/services): overview of treatment areas
+- [Shoulder & Elbow](https://dr-dubenko.co.il/en/services/shoulder-elbow): diagnosis and treatment of shoulder and elbow pain and injuries
+- [Knee](https://dr-dubenko.co.il/en/services/knee): from meniscus and ligament injuries to advanced knee surgery
+- [Ankle & Foot](https://dr-dubenko.co.il/en/services/ankle-foot): care for sprains, instability and injuries of the ankle and foot
+- [Joint Injections](https://dr-dubenko.co.il/en/services/joint-injections): PRP, hyaluronic acid, Orthokine and steroid injections as alternatives to surgery
+- [Arthroscopic Surgery](https://dr-dubenko.co.il/en/services/arthroscopic-surgery): minimally invasive joint surgery with faster recovery
+- [Sports Orthopedics](https://dr-dubenko.co.il/en/sports-orthopedics): treatment of sports injuries and return-to-sport care
+
+## Patient information
+
+- [FAQ](https://dr-dubenko.co.il/en/patient-info/faq): answers to common questions about visits, treatments and surgery
+- [Testimonials](https://dr-dubenko.co.il/en/patient-info/testimonials): what patients say about their treatment and recovery
+- [Articles & Guides](https://dr-dubenko.co.il/en/patient-info/articles): practical guides on injury prevention and rehabilitation
+
+## Other languages
+
+- [Hebrew (default)](https://dr-dubenko.co.il/): עברית — the primary version of the site
+- [English](https://dr-dubenko.co.il/en)
+- [Russian](https://dr-dubenko.co.il/ru): русская версия сайта
+
+## Optional
+
+- [Accessibility Statement](https://dr-dubenko.co.il/en/accessibility)
+- [Privacy Policy](https://dr-dubenko.co.il/en/privacy)
+- [Sitemap](https://dr-dubenko.co.il/sitemap.xml)
